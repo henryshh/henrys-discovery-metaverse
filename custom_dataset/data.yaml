@@ -1,0 +1,5 @@
+path: C:\Users\HenryShh\.openclaw\workspace\tightening-ai\custom_dataset
+train: images/train
+val: images/train
+nc: 1
+names: ['my_custom_tool1']

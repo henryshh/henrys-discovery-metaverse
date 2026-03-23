@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+.venv/
+venv/
+env/
+bin/
+lib/
+include/
+
+# Large Distribution Packages
+offline_distribution/
+*.whl
+*.zip
+*.tar.gz
+
+# Streamlit
+.streamlit/
+
+# Database
+*.db
+!src/core/database.py

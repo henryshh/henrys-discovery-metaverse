@@ -1,0 +1,25 @@
+# Database
+# SQLite - built-in with Python standard library
+
+# Vector Store (optional)
+# faiss-cpu>=1.7.0  # Commented out - optional dependency
+
+# Storage
+# No external dependencies needed
+
+# Caching
+diskcache>=5.0.0
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
+# Utilities
+python-dotenv>=1.0.0
+fastapi>=0.100.0
+uvicorn>=0.20.0
+
+# Computer Vision
+opencv-contrib-python>=4.8.0
+ultralytics>=8.0.0
+Pillow>=10.0.0

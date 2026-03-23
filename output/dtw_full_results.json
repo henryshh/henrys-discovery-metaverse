@@ -1,0 +1,341 @@
+{
+  "total_curves": 54,
+  "n_clusters": 5,
+  "cluster_medoids": {
+    "0": 16005,
+    "1": 15966,
+    "2": 15962,
+    "3": 15957,
+    "4": 15961
+  },
+  "curve_results": [
+    {
+      "resultNumber": 15957,
+      "label": 3,
+      "report": "NOK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15958,
+      "label": 3,
+      "report": "NOK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15959,
+      "label": 0,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15960,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15961,
+      "label": 4,
+      "report": "NOK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15962,
+      "label": 2,
+      "report": "NOK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15963,
+      "label": 2,
+      "report": "NOK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15964,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15965,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15966,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15967,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15968,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15969,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15970,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15971,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15972,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15973,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15974,
+      "label": 0,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15975,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15976,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15977,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15978,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15979,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15980,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15981,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15982,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15983,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15984,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15985,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15986,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15987,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15988,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15989,
+      "label": 0,
+      "report": "NOK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15990,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15991,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15992,
+      "label": 0,
+      "report": "NOK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15993,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15994,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15995,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15996,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15997,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15998,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 15999,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16000,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16001,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16002,
+      "label": 0,
+      "report": "NOK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16003,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16004,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16005,
+      "label": 0,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16006,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16007,
+      "label": 1,
+      "report": "NOK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16008,
+      "label": 0,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16009,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    },
+    {
+      "resultNumber": 16010,
+      "label": 1,
+      "report": "OK",
+      "vin": null
+    }
+  ],
+  "dist_matrix_shape": [
+    54,
+    54
+  ]
+}
